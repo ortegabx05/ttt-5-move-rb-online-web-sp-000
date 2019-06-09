@@ -11,7 +11,7 @@ def input_to_index(user_input)
 end
 
 
-def move (array,index,value)
+def move (board,index,value)
   array[index] = value
   value=#{X or O}
 end
