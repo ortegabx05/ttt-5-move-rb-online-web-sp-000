@@ -12,5 +12,5 @@ end
 
 
 def move (board,index,value)
-  X or O = value
+  <X or O> = value
 end
