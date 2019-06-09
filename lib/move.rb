@@ -12,5 +12,4 @@ end
 
 
 def move (board,index)
-  board[index] = X
 end
