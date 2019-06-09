@@ -11,4 +11,4 @@ board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
   puts " #{board[6]} | #{board[7]} | #{board[8]} "
 puts "Where would you like to go?"
 input= gets.strip
-user_input.to_i - 1
+input_to_index(input)=index
