@@ -12,5 +12,5 @@ end
 
 
 def move(board,1,X)
-  board[1] = X
+  board['1'] = X
 end
