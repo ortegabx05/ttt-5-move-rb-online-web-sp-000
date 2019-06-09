@@ -11,7 +11,6 @@ board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
   puts " #{board[6]} | #{board[7]} | #{board[8]} "
 puts "Where would you like to go?"
 input= gets.strip
-input_to_index(input) =
-index
+input_to_index(input) = index
 move(board,index,value)
 display_board(board)
